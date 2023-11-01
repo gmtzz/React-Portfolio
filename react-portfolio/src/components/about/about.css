@@ -1,0 +1,25 @@
+img {
+    width: 100%;
+}
+.imageWrapper{
+    max-width: 30rem;
+    min-width: 15rem;
+    border-radius: 5px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.6);
+}
+.about-me{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    background-color: rgb(153, 194, 229);
+    margin-top: 0;
+}
+.right-column{
+    padding: 1rem;
+    max-width: 30rem;
+    min-width: 15rem;
+}
+.aboutContainer{
+    margin: 0;
+    padding: 0;
+}

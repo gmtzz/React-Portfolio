@@ -1,47 +1,8 @@
-# React-Portfolio
-* This portfolio is designed to emphasize React skills. It serves as a centralized hub to display your completed projects, highlight your skills, and provide contact information for potential collaboration.
-# Table of Contents
-* [Description](#Description)
-* [Installation](#Installation)
-* [DEMO-Recording](#DEMO-Recording)
-* [Screenshots](#Screenshots)
-* [Technologies-Used](#Technologies-used)
-* [Usage-information](#Usage-information)
-* [Credits](#Credits)
-* [Features](#Features)
-* [License](#License)
-# Description 
-* This app uses react, netlify, and html.css to showcase my experience and skills.  
+# React + Vite
 
-# Installation
-Follow these to install and set up the app on your local machine.
-## Prerequisites
-    Please ensure you have the following before installation. 
-    - REACT
-    - Netlify
-    - HTML/CSS
-1. Clone the repo from https://github.com/gmtzz/React-Portfolio in your terminal
- 
-2. Install dependencies using npm `npm install`
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-3. build the react app using `npm run build`
+Currently, two official plugins are available:
 
-4. Install netlify 
-
-5. Run the app 
-
-## Demo Recording
-* 
-## Screenshots
- * NA
-## Technologies-Used
-- REACT
-- Netlify
-- HTML/CSS
-
-## Usage-information
-
-## Credits 
-
-#Features
-#License
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

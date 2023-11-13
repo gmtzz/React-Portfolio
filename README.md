@@ -39,7 +39,7 @@ Thank you for visiting, and I look forward to connecting with you!
 ## Usage information
 * Access my portfolio at https://main--aesthetic-sunburst-abc6c3.netlify.app/ 
 ## Sources
-I used guidance from my tutor and past exercises from module 20 as well as code from assignment 4
+I used guidance from my tutor and past exercises from module 20 as well as code from assignment 2
 ## Features
 *   NA
 ## License
